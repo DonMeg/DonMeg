@@ -1,5 +1,12 @@
 ## Olá, sou o Donizeti. Bem-vindo(a) ao meu perfil 😁
 
+<div> 
+  <a href = "mailto:donizeti324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/donizeti-megiati-63b7a82b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
  <div>
    <a href="https://github.com/DonMeg">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DonMeg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +22,4 @@
 <br>
 <hr>
 <br>
-<div> 
-  <a href = "mailto:donizeti324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/donizeti-megiati-63b7a82b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
