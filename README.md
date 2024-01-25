@@ -1,11 +1,14 @@
-## Olá, sou o Donizeti. Bem-vindo(a) ao meu perfil 😁
+## Olá! Sou o Donizeti. 😉
+
+### Algumas Redes Sociais que vocês podem me encontrar: 
 
 <div> 
-  <a href = "mailto:donizeti324@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:donizeti324@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/donizeti-megiati-63b7a82b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/donizeti_meg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
+##
 
  <div>
    <a href="https://github.com/DonMeg">
