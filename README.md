@@ -2,7 +2,7 @@
 
 - 🌱 Estudando HTML, CSS e JavaScript
 - 🐉 Jogador de RPG de mesa
-- 😄 Pronome: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 ### Algumas Redes Sociais que vocês podem me encontrar: 
 
