@@ -2,7 +2,7 @@
 
 - 🌱 Estudando HTML, CSS e JavaScript
 - 🐉 Jogador de RPG de mesa
-- 😄 Pronomes: Ele/Dele
+- 📖 Fatecano
 
 ### Algumas Redes Sociais que vocês podem me encontrar: 
 
