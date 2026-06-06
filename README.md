@@ -1,10 +1,6 @@
 
 ## Olá! Sou o Donizeti. 😉
 
-- 🌱 Estudando HTML, CSS, JavaScript, Java e React
-- 🐉 Jogador de RPG de mesa
-- 📖 Fatecano
-
 ### Algumas Redes Sociais que vocês podem me encontrar: 
 
 <div> 
